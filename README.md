@@ -2,7 +2,6 @@
 
 Uma aplicação web interativa que celebra a estética Pixel Art nos jogos, desde os clássicos do SNES até os indies modernos.
 
-![Preview do Projeto](caminho-para-um-print-do-seu-site.png)
 
 ## 🧠 Sobre o Projeto
 
